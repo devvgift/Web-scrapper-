@@ -42,7 +42,22 @@
      ✅ API responses
      ✅ Sensitive JavaScript files
 
+═══════════════════════════════════════════════════════════════════
+  ⚡ FEATURES
+═══════════════════════════════════════════════════════════════════
 
+  🎨 Auto-Discover         Finds ALL paths from homepage automatically
+  🚫 No Preset Lists       No hardcoded paths - finds everything organically
+  🎯 Colorful UI           Beautiful terminal interface with animations
+  ⏳ Progress Bars         Real-time scanning progress
+  🔄 Spinner Animation     Live loading indicators
+  📡 Resource Extraction   Finds JS, CSS, Images, Links
+  🔎 Admin Finder          Automatically discovers admin panels
+  📁 File Finder           Checks 40+ sensitive file types
+  🔬 JS Analyzer           Searches for secrets in JavaScript
+  🌐 API Scraper           Fetches and analyzes API endpoints
+  📊 Status Codes          Shows HTTP response codes
+  💾 Results Export        Saves all findings to file
 
 ═══════════════════════════════════════════════════════════════════
   📥 INSTALLATION
@@ -257,7 +272,6 @@
   🌟 Developer: Dev Gift
   🔗 GitHub: https://github.com/devvgift
   📱 Phone: 2349164624021
-  📧 Email: devgift@example.com
 
 ═══════════════════════════════════════════════════════════════════
   🤝 CONTRIBUTING
