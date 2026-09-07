@@ -62,25 +62,17 @@ USAGE
    - Checks sensitive files
    - Analyzes JavaScript for secrets
 
-TERMUX INSTALLATION
--------------------
-
-1. Update packages:
-   pkg update && pkg upgrade
-
-2. Install curl:
-   pkg install curl
-
-3. Download the script:
-   curl -s https://raw.githubusercontent.com/devvgift/scraper/main/scraper.sh -o scraper.sh
-
-4. Make executable:
-   chmod +x scraper.sh
-
-5. Run:
-   ./scraper.sh
-
-
+📱 RUN ON TERMUX:                          
+║                                             
+║  git clone https://github.com/devvgift/     
+║  Web-scrapper-.git                          
+║                                              
+║  cd Web-scrapper-                           
+║                                              
+║  chmod +x scraper.sh                        
+║                                              
+║  ./scraper.sh                               
+║                                              
 REQUIREMENTS
 ------------
 - Bash 5.0 or higher
