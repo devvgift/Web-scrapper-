@@ -61,6 +61,8 @@ USAGE
    - Scans admin routes
    - Checks sensitive files
    - Analyzes JavaScript for secrets
+     
+TERMUX INSTALLATION
 
 STEP 1
 git clone https://github.com/devvgift/Web-scrapper-.git
@@ -73,6 +75,7 @@ chmod +x scraper.sh
 
 STEP 4
 ./scraper.sh
+
 REQUIREMENTS
 ------------
 - Bash 5.0 or higher
