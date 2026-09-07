@@ -62,17 +62,17 @@ USAGE
    - Checks sensitive files
    - Analyzes JavaScript for secrets
 
-📱 RUN ON TERMUX:                          
-║                                             
-║  git clone https://github.com/devvgift/     
-║  Web-scrapper-.git                          
-║                                              
-║  cd Web-scrapper-                           
-║                                              
-║  chmod +x scraper.sh                        
-║                                              
-║  ./scraper.sh                               
-║                                              
+STEP 1
+git clone https://github.com/devvgift/Web-scrapper-.git
+
+STEP 2
+cd Web-scrapper-
+
+STEP 3
+chmod +x scraper.sh
+
+STEP 4
+./scraper.sh
 REQUIREMENTS
 ------------
 - Bash 5.0 or higher
